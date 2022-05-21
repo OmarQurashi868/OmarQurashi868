@@ -1,16 +1,15 @@
 ### Hi there 👋
+I am Omar Kamal Aldin Qurashi, an aspiring self-taught web developer that's looking to start his career.
+I'm always working on personal projects in order to gain more experience while exploring and researching different topics and concepts about the field.
+I'm open to feedback including critism and advice, and I'm always looking for ways to improve 🙏.
 
-<!--
-**OmarQurashi868/OmarQurashi868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently learning:
+JavaScript, Typescript, HTML, CSS, Node.js, React.js, MongoDB.
 
-Here are some ideas to get you started:
+# Previously dabbled with:
+C, Python, Flask, SQLite, Unity, C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact info:
+Email: OmarQurashi868@gmail.com
+Linkedin: https://www.linkedin.com/in/omar-qurashi/
+Phone: +968 9614 1980
