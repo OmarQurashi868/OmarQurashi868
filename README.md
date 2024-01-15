@@ -10,7 +10,7 @@ JavaScript, Typescript, HTML, CSS, Node.js, React.js, MongoDB, (_with plans for 
 C, Python, Flask, SQLite, Unity, C#.
 
 ### Contact info:
-Resume: [Google Drive link](https://drive.google.com/file/d/1qQ_Hw6Vo4rNVwvBaGrT2Nanl3jqNtfvB/view?usp=sharing)  
+Resume: [Flowcv link](https://flowcv.com/resume/qv0ons35cr)  
 Email: OmarQurashi868@gmail.com  
-Linkedin: https://www.linkedin.com/in/omar-qurashi/  
+Linkedin: [Omar Qurashi](https://www.linkedin.com/in/omar-qurashi/)  
 Phone: +968 9614 1980  
